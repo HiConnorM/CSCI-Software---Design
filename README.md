@@ -1,1 +1,1 @@
-# CSCI-Software-Design class project for a payroll app
+# CSCI-Software-Design class projects 
